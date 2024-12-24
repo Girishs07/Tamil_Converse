@@ -75,5 +75,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For questions or feedback, please contact:
 - **Girish**
-- Email:(mailto:girish792004@gmail.com)
+- Email:(girish792004@gmail.com)
 - GitHub:(https://github.com/Girishs07)
