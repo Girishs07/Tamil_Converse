@@ -1,26 +1,22 @@
 .nav-bar-container {
-  background-color: #ffffff !important;
+  background-color: #F4E3C1 !important; /* Light sandal brown background */
 }
 
 .nav-text {
-  color: #78b7e5 !important;
+  color: #B2996E !important; /* Medium light brown for text */
   font-weight: bold !important;
 }
 
 .nav-text:hover {
-  color: #154c79 !important;
+  color: #8B5E3C !important; /* Rich brown on hover */
 }
 
 .navbar-toggle:hover {
-  color: #154c79 !important;
+  color: #8B5E3C !important; /* Rich brown for toggle button hover */
 }
 
-/* .nav-wrapper {
-  background-color: #ffffff !important;
-} */
-
 @media screen and (max-width: 768px) {
-.nav-bar-container {
-  margin-bottom: -80px !important;
+  .nav-bar-container {
+    margin-bottom: -80px !important;
   }
 }

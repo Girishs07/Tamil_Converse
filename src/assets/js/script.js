@@ -1,9 +1,8 @@
 // Array of search terms for the unSplash API.
-const imageSearchTermsBase = ["french-pastries", "french-desserts"];
+const imageSearchTermsBase = ["tamil-culture", "tamil-tradition"];
+const imageSearchTermsCartoons = ["Tamil-language"];
+const imageSearchTermsBusiness = ["Tamil-business-meeting"];
 
-const imageSearchTermsCartoons = ["Tintin"]
-
-const imageSearchTermsBusiness = ["Business-meeting"]
 
 const unsplashArray = [imageSearchTermsBusiness, imageSearchTermsCartoons, imageSearchTermsBase];
 

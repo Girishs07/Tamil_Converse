@@ -18,7 +18,7 @@ const VocalVideo = () => {
     infinite: true,
     speed: 500,
     slidesToShow: 1,
-    slidesToScroll: 1
+    slidesToScroll: 1,
   };
 
   return (
@@ -32,11 +32,11 @@ const VocalVideo = () => {
             width="100%"
             frameBorder="0"
             loading="lazy"
-            name="vocalvideo_647"
+            name="vocalvideo_girish"
             scrolling="no"
             sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
-            src="https://vocalvideo.com/embed/v1/galleries/647"
-            title="Vocal Video"
+            src="https://vocalvideo.com/c/girish-traders"
+            title="Testimonials"
             style={{
               background: 'transparent',
               position: 'relative',
@@ -44,7 +44,7 @@ const VocalVideo = () => {
               minWidth: '100%',
               height: '80vh',
               zIndex: 1,
-              display: 'block'
+              display: 'block',
             }}
           />
         </Slider>
@@ -54,4 +54,3 @@ const VocalVideo = () => {
 };
 
 export default VocalVideo;
-

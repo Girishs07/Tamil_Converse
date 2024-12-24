@@ -32,7 +32,7 @@ const Jumbotron = ({ heading, paragraph, paragraphTwo }) => {
                       width: "100%",
                       height: "100%",
                     }}
-                    src="https://www.youtube.com/embed/eSB715UDut8"
+                    src="https://www.youtube.com/embed/bSTSYcHuKok"
                     title="YouTube video player"
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

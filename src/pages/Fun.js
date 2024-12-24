@@ -114,8 +114,7 @@ const Fun = (props) => {
                   Privacy Policy
                 </a>
                 <p className="text-muted small mb-4 mb-lg-0" id="copyright">
-                  &copy; teamCaramba 2023. Coded in Cambridge, Headley Down,
-                  London, Preston and Watford.
+                  &copy; Tamil Converse 2024. Coded by Girish to inovate the ideas.
                 </p>
               </div>
             </div>

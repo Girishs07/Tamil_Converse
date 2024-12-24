@@ -3,28 +3,28 @@
      "queryList": [
         {
             "key": 1,
-            "buttonText": "La Tour Eiffel",
-            "queryName": "La+Tour+Eiffel"
+            "buttonText": "Brihadeeswara Temple",
+            "queryName": "Tamils Iconic"
         },
         {
             "key": 2,
-            "buttonText": "Croque Monsieur",
-            "queryName": "Croque+Monsieur"
+            "buttonText": "Mahabalipuram",
+            "queryName": "Cholas Dynasty"
         },
         {
             "key": 3,
-            "buttonText": "La République",
-            "queryName": "La+République"
+            "buttonText": "Twin Towers",
+            "queryName": "Malaysian famous spot"
         },
         {
             "key": 4,
-            "buttonText": "Tricolore",
-            "queryName": "Tricolore"
+            "buttonText": "Nilgris",
+            "queryName": "Wild Life sanctuary"
         },
         {
             "key": 5,
-            "buttonText": "L'Arc De Triomphe",
-            "queryName": "Arc+de+Triomphe"
+            "buttonText": "Kanya Kumari",
+            "queryName": "Tip Of India"
         }
     ]
     },
@@ -32,28 +32,28 @@
      "queryList": [
         {
             "key": 1,
-            "buttonText": "Réunion d'affaires",
-            "queryName": "Reunion+affaires"
+            "buttonText": "Brihadeeswara Temple",
+            "queryName": "Tamils Iconic"
         },
         {
             "key": 2,
-            "buttonText": "Business",
-            "queryName": "Business"
+            "buttonText": "Chennai",
+            "queryName": "Tech park"
         },
         {
             "key": 3,
-            "buttonText": "Briefcase",
-            "queryName": "Briefcase"
+            "buttonText": "Tiruppur",
+            "queryName": "Textile Hub"
         },
         {
             "key": 4,
-            "buttonText": "Cravate",
-            "queryName": "Cravate"
+            "buttonText": "Nilgris",
+            "queryName": "Wild Life sanctuary"
         },
         {
             "key": 5,
-            "buttonText": "Costume d'affaires",
-            "queryName": "Costume+affaires"
+            "buttonText": "Kanya Kumari",
+            "queryName": "Tip Of India"
         }
     ]
     },
@@ -61,28 +61,28 @@
      "queryList": [
         {
             "key": 1,
-            "buttonText": "Tintin",
-            "queryName": "Tintin"
+            "buttonText": "Brihadeeswara Temple",
+            "queryName": "Tamils Iconic"
         },
         {
             "key": 2,
-            "buttonText": "Astérix Le Gaul",
-            "queryName": "Astérix+Le+Gaul"
+            "buttonText": "Wonderla",
+            "queryName": "Theme park"
         },
         {
             "key": 3,
-            "buttonText": "Obélix",
-            "queryName": "Obélix"
+            "buttonText": "adventure",
+            "queryName": "kids friendly"
         },
         {
             "key": 4,
-            "buttonText": "Le Pétit Prince",
-            "queryName": "Le+Pétit+Prince"
+            "buttonText": "Exhibition",
+            "queryName": "Enjoyment"
         },
         {
             "key": 5,
-            "buttonText": "Le Méchant Loup",
-            "queryName": "Le+Méchant+Loup"
+            "buttonText": "Dhanushkodi",
+            "queryName": "Path to Srilanka"
         }
     ]
     }

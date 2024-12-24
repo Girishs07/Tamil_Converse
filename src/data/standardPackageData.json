@@ -1,29 +1,33 @@
 [
-  { "id": 1,
-    "title": "Package \"Apéritif\"",
+  {
+    "id": 1,
+    "title": "Package \"Basic-Plan \"",
     "subTitle": "Free 30-minute trial",
-    "description": "Short and sweet - book your free 30-minute trial and start speaking French like the French. Salutations!",
+    "description": "Short and sweet - book your free 30-minute trial and start speaking Tamil like the Native Tamil.congrats!",
     "rate": "Free",
     "btnMsg": "Book Now",
     "link": "https://calendly.com/teamcarambatesting/1-2-1-tutoring-session-free-trial-edition",
     "bestValue": false
   },
-  { "id": 2,
-    "title": "Package \"Crêpe\"",
+  {
+    "id": 2,
+    "title": "Package \"Mid Range Plan\"",
     "subTitle": "Pay as you go",
-    "description": "Not sure how much time you can commit to learning French? Often out of town? Choose the flexible \"pay as you go\" option to only book classes that fit your busy schedule.",
-    "rate": "£35/hour",
-    "btnMsg": "Get in touch",
-    "link": "https://form.jotform.com/230464330195350",
+    "description": 
+    "Not sure how much time you can commit to learning Tamil? Often out of town? Choose the flexible 'ready to grab' opportunity option to book only the classes that fit your busy schedule and learn Tamil at your own pace.",
+    "rate": "₹350/hour",
+    "btnMsg": "Ready To Grab",
+    "link": "https://form.jotform.com/243133982020448",
     "bestValue": false
   },
-  { "id": 3,
+  {
+    "id": 3,
     "title": "Best Value",
-    "subTitle": "Package \"Ratatouille\"",
-    "description": "Looking for regular weekly classes to speak French as quickly as possible? Opt for the monthly subscription and book 8 hourly classes that can fit within your schedule.",
-    "rate": "£200/mth (8 hrs)",
-    "btnMsg": "Get in touch",
-    "link": "https://form.jotform.com/230464330195350",
+    "subTitle": "Package \"Value Added Pack\"",
+    "description": "Looking for regular weekly classes to learn Tamil quickly and confidently? Opt for the monthly subscription and book 8 hourly classes tailored to fit your schedule.",
+    "rate": "₹3500/mth (8 hrs)",
+    "btnMsg": "Access Full ",
+    "link": "https://form.jotform.com/243133982020448",
     "bestValue": true
   }
 ]

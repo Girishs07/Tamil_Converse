@@ -1,68 +1,79 @@
-# my-french-tutor
+# Tamil Converse
 
-French tutoring website - learn French with Bertrand.
+Tamil Converse is an interactive and user-friendly platform designed to help users learn the Tamil language effortlessly. It provides curated lessons, cultural insights, and engaging visuals, making the language learning process enjoyable and accessible.
 
-## Deployed Application
+## Features
 
-[French With Bertrand in React](https://myfrenchtutor.netlify.app/)
+- Interactive Lessons: Curated lessons to help users master Tamil language skills.
+- Audio Integration: Play audio clips to improve pronunciation and listening skills.
+- Visual Learning: Powered by Unsplash API, showcasing relevant images to enhance understanding.
+- Testimonials: User feedback to build trust and showcase the platform's effectiveness.
+- Cultural Insights: Dive into Tamil culture, heritage, and landmarks while learning the language.
 
-## Description
+## Technology Stack
 
-This is an application designed to enable a user to book a French tutoring lesson with the tutor, Bertrand. The user will be able to do this directly via the embedded Calendly widget (for free trial) or via a submission form (for follow-up lessons).
-The page has 3 different themes/styling options, which the user can choose from depending on their learning goal. They are:
-
-1. French for business
-2. French for kids
-3. French for fun
-
-There is also a Youtube widget embedded, which populates a video about the tutor, hosted on Youtube, to the page.
-
-The Unsplash API is also made use of, to populate high-definition images to the page showcasing different culturally relevant references (e.g. Tintin for the kids version, French cuisine for the Fun version, etc.)
-
-The application was built in React.js.
+- Frontend: React.js
+- Styling: CSS for a clean and responsive design
+- API Integration: Unsplash API for dynamic visual content
 
 ## Installation
 
-### run npm install
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tamil-converse.git
+   ```
 
-To install node modules
+2. Navigate to the project directory:
+   ```bash
+   cd tamil-converse
+   ```
 
-### run npm install react-ga react-slick slick-carousel
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-To install Google Analytics and Slick.
+4. Start the development server:
+   ```bash
+   npm start
+   ```
 
-## Usage
+5. Open your browser and visit:
+   ```
+   http://localhost:3000
+   ```
 
-The way to use the deployed application is to:
+## Contributing
 
-1. Use the booking form to book a one-on-one tutor session with Bertrand, the tutor.
-2. Click one of the buttons on the theme-toggling navbar to switch the page between the theme of "Business", "Kids", or "Fun".
+We welcome contributions! Please follow these steps:
 
-## Screenshot of Deployed Application
-
-### Desktop
-
-![full page](/src/assets/images/full-page.png)
-
-### Mobile
-
-![full page](/src/assets/images/full-page-m.png)
-
-## Link to Presentation
-
-<a href="Presentation.pdf">Presentation</a>
-
-## Credits
-
-This repository has been an active collaboration from five Github users.
-In alphabetical order:
-
-1. [Anna Benari](https://github.com/annabenari)
-2. [Apechhya Gurung](https://github.com/AG-93)
-3. [Beata Zacharska](https://github.com/beazach)
-4. [Benedict McElroy](https://github.com/benedictcodeshere)
-5. [Tony Croft](https://github.com/anthonycroft)
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Submit a pull request.
 
 ## License
 
-Please refer to the license in the repo (MIT License).
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+
+- [Unsplash](https://unsplash.com) for the incredible visual content.
+- All contributors who have helped improve this project.
+
+## Contact
+
+For questions or feedback, please contact:
+- **Girish**
+- Email:(girish792004@gmail.com)
+- GitHub:(https://github.com/Girishs07)

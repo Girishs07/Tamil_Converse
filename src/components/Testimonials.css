@@ -1,9 +1,9 @@
 .testimonials {
-    background-color: #78B7E5;
+    background-color: #f5e1c8; /* Light sandal color for background */
 }
 
 .test-video {
-    color: #ffffff;
+    color: #5b4636; /* Dark sandal brown for readability */
     font-weight: bold;
     font-family: Helvetica;
 }
@@ -14,16 +14,12 @@
 
 .testimonialsTitle {
     position: relative;
-    color:white; 
+    color: #5b4636; /* Dark sandal brown for text */
     margin-top: -50px;
     font-size: 4rem; 
     text-align: center;
-    
     font-weight: 450;
-    
-
 }
-
 
 @media only screen and (min-width: 600px) {
 
@@ -34,8 +30,7 @@
 
 @media screen and (max-width: 500px) {
 
-    .testimonialsTitle{
-      font-size: 3rem !important;
+    .testimonialsTitle {
+        font-size: 3rem !important;
     }
-
-  }
+}

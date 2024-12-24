@@ -1,17 +1,45 @@
 .about-Bertrand {
-    background-color: #ffffff;
+  background-color: #F3E5D1; /* Light sandal brown background */
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  width: 100vw; /* Full viewport width */
+  min-height: 100vh; /* Full viewport height */
+  padding: 20px; /* Add some padding for spacing */
+  box-sizing: border-box; /* Include padding in the width/height */
+  flex-direction: column; /* Default to a column layout */
 }
 
 .about-Bertrand-h1 {
-    color:#78B7E5;
-    font-weight: bold;
+  color: #8C6D45; /* Darker brownish shade for contrast */
+  font-weight: bold;
+  text-align: center; /* Center text */
+  margin-bottom: 20px; /* Add spacing below the heading */
+  font-size: 2rem; /* Adjust font size for readability */
 }
 
 .Bertrand-icon {
-    /* display: inline-block;
-    position: relative; */
-    width: 300px;
-    height: 300px;
-    /* top: 5px;
-    left: 750px; */
+  width: 300px;
+  height: 300px;
+  border: 2px solid #B59B7A; /* Medium brown shade for border */
+  border-radius: 50%; /* Make the icon circular */
+  margin: 0 auto; /* Center icon within the container */
+  display: block; /* Ensure proper alignment */
+}
+
+@media screen and (max-width: 768px) {
+  .about-Bertrand {
+    padding: 15px; /* Reduce padding for smaller screens */
+    min-height: auto; /* Adjust height for smaller screens */
+  }
+
+  .about-Bertrand-h1 {
+    font-size: 1.5rem; /* Slightly smaller font size */
+    margin-bottom: 15px; /* Adjust spacing below the heading */
+  }
+
+  .Bertrand-icon {
+    width: 200px; /* Smaller icon for mobile screens */
+    height: 200px; /* Maintain circular proportions */
+  }
 }

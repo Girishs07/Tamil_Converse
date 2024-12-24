@@ -1,30 +1,31 @@
 .fa-brands {
-  color: #78b7e5;
+  color: #B2996E; /* Medium light brown */
 }
 
 .fa-envelope {
-  color: #78b7e5;
+  color: #B2996E; /* Medium light brown */
   padding-left: 12px;
   padding-right: 12px;
 }
 
 .footer {
   padding-bottom: 20px;
+  background-color: #F4E3C1; /* Light sandal brown background */
 }
 
 .fa-brands:hover {
-  color: #154c79 !important;
+  color: #8B5E3C !important; /* Rich brown on hover */
 }
 
 .fa-envelope:hover {
-  color: #154c79 !important;
+  color: #8B5E3C !important; /* Rich brown on hover */
 }
 
 #privacy {
-  color: #78b7e5;
+  color: #B2996E; /* Medium light brown */
   padding-bottom: 15px;
 }
 
 #privacy:hover {
-  color: #154c79 !important;
+  color: #8B5E3C !important; /* Rich brown on hover */
 }
